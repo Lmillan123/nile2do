@@ -51,10 +51,6 @@ It should look something like this (you can see that I used Fireworks as the ven
 
 ```bash
 
-# Private env vars that should never show up in the browser
-# These are used by the server to connect to Nile database
-NILE_USER = "0190995c-44ab-7ce3-9aef-31ef87dcd5f0"
-NILE_PASSWORD = "73d32231-1d21-4990-a4f4-g6447507c271"
 
 # Client (public) env vars
 
